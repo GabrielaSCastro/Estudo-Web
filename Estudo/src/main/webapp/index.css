@@ -1,0 +1,16 @@
+@charset "Utf-8";
+body{
+	background-color: black;
+}
+.Titulo{
+	color:white;
+}
+.centro{
+	display: inline-block;
+	position:absolute;
+	right: 50%;
+}
+.tituloInput{
+	color:white;
+	margin-bottom:0px; 
+}
